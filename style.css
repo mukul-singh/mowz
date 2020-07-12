@@ -1,0 +1,91 @@
+body {
+	color: #333;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 16px;
+}
+.center {
+    float: none !important;
+    margin: auto;
+}
+.nopad {
+	padding: 0 !important;
+}
+.pad-r0 {
+	padding-right: 0;
+}
+.pad-l15 {
+	padding-left: 15px;
+}
+.nomar {
+	margin: 0 !important;
+}
+.mar-b0 {
+	margin-bottom: 0 !important;
+}
+.bg-light-orange {
+	background: #fff8e6;
+}
+.list-unstyled {
+	list-style-type: none;
+}
+.right {
+	float: right;
+}
+.list-inline li {
+	display: inline;
+}
+.nav {
+	padding: 10px 0;
+}
+.nav .menu li {
+	border-right: 1px solid #ffc107;
+	padding: 5px 30px;
+	font-weight: bold;
+}
+.nav .menu li:last-child {
+	border-right: none;
+	padding-right: 0;
+}
+.section {
+	padding: 90px 0;
+}
+.banner .tagline {
+	font-size: 32px;
+	margin: 60px 0;
+}
+.banner .sub-tagline {
+	font-size: 18px;
+}
+.banner img {
+	max-height: 500px;
+}
+.mowz-btn {
+	border-radius: 0;
+	padding: 8px 40px;
+}
+.banner button {
+	margin-right: 10px;
+	font-size: 18px;
+}
+.feature {
+	padding: 45px;
+}
+.contact-form input, .contact-form textarea {
+	border-radius: 0;
+	padding: 8px 15px;
+	height: auto;
+}
+.contact-form .mowz-btn {
+	background-color: #e2e6ea;
+    border-color: #dae0e5;
+}
+.footer .social-icons {
+	margin-top: 12px;
+}
+
+
+
+
+.bordered {
+	border: 1px solid black;
+}
